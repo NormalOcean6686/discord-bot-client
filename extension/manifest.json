@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Discord Bot Client",
 	"version": "1.0.0",
-	"description": "This extension allows you to use https://botclient.tk",
+	"description": "This extension allows you to use https://discordclient.tk",
 	"author": "Flam3rboy",
 	"background": {
 		"scripts": ["script.js"]
